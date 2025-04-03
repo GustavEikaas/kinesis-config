@@ -1,0 +1,10 @@
+<base>
+[hk2]>[obrk]
+[del]>[lshf]
+[pgdn]>[lalt]
+{obrk}>{s5}{x1}{-rshf}{obrk}{+rshf}
+{hk1}>{s5}{x1}{-lshf}{9}{+lshf}
+<keypad>
+<function1>
+<function2>
+<function3>
