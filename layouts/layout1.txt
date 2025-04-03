@@ -3,10 +3,9 @@
 [lshf]>[lctr]
 [lctr]>[lalt]
 [lalt]>[lctr]
-[del]>[lshf]
-[pgdn]>[lalt]
-{obrk}>{s5}{x1}{-rshf}{obrk}{+rshf}
-{hk1}>{s5}{x1}{-lshf}{9}{+lshf}
+[rctr]>[tab]
+[del]>[rshf]
+{hk1}>{s5}{x1}{-rshf}{9}{+rshf}
 <keypad>
 <function1>
 <function2>
