@@ -5,6 +5,8 @@
 [lalt]>[lctr]
 [rctr]>[tab]
 [del]>[rshf]
+[end]>[eql]
+[pgdn]>[hyph]
 {hk1}>{s5}{x1}{-rshf}{9}{+rshf}
 <keypad>
 <function1>
