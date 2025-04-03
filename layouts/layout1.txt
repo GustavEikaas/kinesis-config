@@ -1,5 +1,5 @@
 <base>
-[hk2]>[obrk]
+[hk4]>[grav]
 [lshf]>[lctr]
 [lctr]>[lalt]
 [lalt]>[lctr]
@@ -7,7 +7,6 @@
 [del]>[rshf]
 [end]>[eql]
 [pgdn]>[hyph]
-{hk1}>{s5}{x1}{-rshf}{9}{+rshf}
 <keypad>
 <function1>
 <function2>
