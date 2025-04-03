@@ -1,5 +1,8 @@
 <base>
 [hk2]>[obrk]
+[lshf]>[lctr]
+[lctr]>[lalt]
+[lalt]>[lctr]
 [del]>[lshf]
 [pgdn]>[lalt]
 {obrk}>{s5}{x1}{-rshf}{obrk}{+rshf}
