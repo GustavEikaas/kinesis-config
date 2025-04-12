@@ -7,6 +7,8 @@
 [del]>[rshf]
 [end]>[eql]
 [pgdn]>[hyph]
+{hk2}>{s5}{x1}{-rshf}{obrk}{+rshf}
+{hk1}>{s5}{x1}{eql}{-rshf}{perd}{+rshf}
 <keypad>
 <function1>
 <function2>
